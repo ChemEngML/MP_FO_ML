@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "AI-assisted Prediction and Optimization of Micropollutants Removal with Forward Osmosis Membranes"
+version: "v1.0.0"
+date-released: "2025-06-21"
+
+# — Creators: appear in the formal data citation
+authors:
+  - family-names: Jafari
+    given-names: Mehryar
+    orcid: "https://orcid.org/0009-0001-4442-1742
+  - family-names: Tzirtzipi
+    given-names: Christina
+  - family-names: Aghdam
+    given-names: Ali Molaei
+  - family-names: Chahartagh
+    given-names: Nima Mikaeili
+  - family-names: Castro Dominguez
+    given-names: Bernardo
+
+# — Funding
+funding:
+  - name: "University of Bath"
+  - name: "UK Research and Innovation (UKRI)"
+  - name: "EPSRC"
+    grant-number: "EP/W524712/1"
+
+# — Keywords
+keywords:
+  - Forward Osmosis
+  - Micropollutants
+  - Artificial Intelligence
+  - Gradient Boosting
+  - Neural Networks
+  - Water Flux
+  - Rejection Rate
